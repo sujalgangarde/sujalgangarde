@@ -103,7 +103,7 @@ Currently Learning:
 
 <div align="center">
 
-<a href="https://instagram.com/gsujal_">
+<a href="https://instagram.com/thesujalgangarde">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
