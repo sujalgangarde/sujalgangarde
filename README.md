@@ -4,7 +4,8 @@
 
 ### Full Stack Developer • Data Engineer • Backend Engineer • UI Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node+%7C+Spring+Boot;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Data+Engineer;React+%7C+Node.js+%7C+Spring+Boot;Azure+%7C+Databricks+%7C+Apache+Spark;ETL+%7C+Data+Pipelines+%7C+Medallion+Architecture;Building+Modern+Applications+%26+Data+Platforms;Always+Learning+New+Technologies" />
 
 </div>
 
