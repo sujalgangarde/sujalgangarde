@@ -2,7 +2,7 @@
 
 # Hi there, I'm Sujal Gangarde 👋
 
-### Full Stack Developer • Backend Engineer • UI Builder
+### Full Stack Developer • Data Engineer • Backend Engineer • UI Builder
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node+%7C+Spring+Boot;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 
