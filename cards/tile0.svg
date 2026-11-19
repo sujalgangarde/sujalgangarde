@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 170" width="290" height="170"><style>
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@keyframes pop{from{opacity:0;transform:scale(.3)}to{opacity:1;transform:scale(1)}}
+@keyframes swing{0%{opacity:0;transform:translateY(40px) rotate(-6deg)}
+ 70%{opacity:1;transform:translateY(-6px) rotate(1deg)}100%{opacity:1;transform:none}}
+@keyframes pulse{0%{r:6;opacity:.8}100%{r:26;opacity:0}}
+.rise{opacity:0;animation:rise .7s ease forwards}
+.fade{opacity:0;animation:fade .3s ease forwards}
+.grow{transform-box:fill-box;transform-origin:bottom;transform:scaleY(0);animation:grow .8s ease forwards}
+.pop{transform-box:fill-box;transform-origin:center;opacity:0;animation:pop .35s ease forwards}
+.swing{transform-box:fill-box;transform-origin:bottom left;opacity:0;animation:swing .9s ease forwards}
+.ring{animation:pulse 2.4s ease-out infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;transform:none!important}}
+</style><rect width="290" height="170" rx="18" fill="#faf7f0" stroke="#e2ddd0"/>
+<g class="swing" style="animation-delay:0.30s"><rect x="10" y="10" width="270" height="150" rx="16" fill="#1f4fff"/>
+<text x="30" y="46" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" letter-spacing="3" fill="#fff" opacity=".85">BUILD</text>
+<text x="30" y="110" font-family="Georgia,'Times New Roman',serif" font-size="56" fill="#fff" visibility="hidden">42<set attributeName="visibility" to="visible" begin="0.86s" dur="0.06s"/></text><text x="30" y="110" font-family="Georgia,'Times New Roman',serif" font-size="56" fill="#fff" visibility="hidden">84<set attributeName="visibility" to="visible" begin="0.92s" dur="0.06s"/></text><text x="30" y="110" font-family="Georgia,'Times New Roman',serif" font-size="56" fill="#fff" visibility="hidden">126<set attributeName="visibility" to="visible" begin="0.98s" dur="0.06s"/></text><text x="30" y="110" font-family="Georgia,'Times New Roman',serif" font-size="56" fill="#fff" visibility="hidden">168<set attributeName="visibility" to="visible" begin="1.04s" dur="0.06s"/></text><text x="30" y="110" font-family="Georgia,'Times New Roman',serif" font-size="56" fill="#fff" visibility="hidden">210<set attributeName="visibility" to="visible" begin="1.10s" dur="0.06s"/></text><text x="30" y="110" font-family="Georgia,'Times New Roman',serif" font-size="56" fill="#fff" visibility="hidden">252<set attributeName="visibility" to="visible" begin="1.16s" dur="0.06s"/></text><text x="30" y="110" font-family="Georgia,'Times New Roman',serif" font-size="56" fill="#fff" visibility="hidden">294<set attributeName="visibility" to="visible" begin="1.22s" dur="0.06s"/></text><text x="30" y="110" font-family="Georgia,'Times New Roman',serif" font-size="56" fill="#fff" visibility="hidden">336<set attributeName="visibility" to="visible" begin="1.28s" dur="0.06s"/></text><text x="30" y="110" font-family="Georgia,'Times New Roman',serif" font-size="56" fill="#fff" visibility="hidden">378<set attributeName="visibility" to="visible" begin="1.34s" dur="0.06s"/></text><text x="30" y="110" font-family="Georgia,'Times New Roman',serif" font-size="56" fill="#fff" visibility="hidden">420<set attributeName="visibility" to="visible" begin="1.40s" fill="freeze"/></text>
+<text x="30" y="140" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" fill="#fff" opacity=".85">contributions</text>
+<circle class="ring" cx="250" cy="40" r="6" fill="none" stroke="#fff"/></g></svg>
